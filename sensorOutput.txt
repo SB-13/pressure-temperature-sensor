@@ -1,0 +1,3 @@
+Pressure (mbar): 1013.63
+Temperature (C): 25.82
+Temperature (F): 78.476
